@@ -9,3 +9,5 @@ Some demonstrations and tutorials:
 6. Demo_6_196_qubit_Pattern_Recognition
 
 Using the non-interacting Fermionic Formalism to efficiently simulate the measurements on a quantum circuit in polynomial time of the number of qubits 
+
+- <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
