@@ -212,7 +212,7 @@ class Network(nn.Module):
 
         self.N = N
         self.L = len(conn_list)
-        print('debug self.L', self.L)
+        # print('debug self.L', self.L)
         # Make sure that the parameters in V_l_list and the V_tot are always updated together! 
         # Currently, they are empty
         V_l_list = [] # A list of modules
@@ -230,10 +230,10 @@ class Network(nn.Module):
     # This is reserved for the case when we don't use torch.autograd at the optimization.
     def manual_set_params(self, params_m): # Assume params_m has shape (L, 4)
         l = 0
-        print('debug self.V_l_module_list len', len(self.V_l_module_list))
-        print('debug self.V_l_module_list.parameters()', self.V_l_module_list.parameters())
-        for param in self.V_l_module_list.parameters(): # this loops through L*4 number of parameters
-            print('param', param)
+        # print('debug self.V_l_module_list len', len(self.V_l_module_list))
+        # print('debug self.V_l_module_list.parameters()', self.V_l_module_list.parameters())
+        # for param in self.V_l_module_list.parameters(): # this loops through L*4 number of parameters
+            # print('param', param)
 
         for param in self.V_l_module_list.parameters(): # each param is a 4-element real tensor
             param.data = params_m[l//4, l%4]
@@ -362,7 +362,7 @@ class Network(nn.Module):
 
 # For the Fermion-preserving evolution
 def initialize_sparse(N, conn_i, conn_j, a, b, c, d): # 
-    print('debug a, b, c, d)',(a, b, c, d))
+    # print('debug a, b, c, d)',(a, b, c, d))
     sx = sparse.csr_matrix(np.array([[0., 1.], [1., 0.]]))
     sy = sparse.csr_matrix(np.array([[0 , -1j], [1j , 0]]))
     sz = sparse.csr_matrix(np.array([[1., 0.], [0., -1.]]))
@@ -410,13 +410,13 @@ def initialize_sparse(N, conn_i, conn_j, a, b, c, d): #
 
     H = H_z + (  (1.0j*c/2) * H_xy - (1.0j*c/2) * H_yx + (d*(1.0j)/2) * H_xx + (d*(1.0j)/2) * H_yy  ) @ H_zzz_id
     
-    print('H_z', H_z)
-    print('H_xy',H_xy)
-    print('H_yx',H_yx)
-    print('H_xx',H_xx)
-    print('H_yy',H_yy)
+    # print('H_z', H_z)
+    # print('H_xy',H_xy)
+    # print('H_yx',H_yx)
+    # print('H_xx',H_xx)
+    # print('H_yy',H_yy)
 
-    print('debug H', H) # Somehow this doesn't come out to be Hermitian lol
-    print('debug iH', 1j* H)
+    # print('debug H', H) 
+    # print('debug iH', 1j* H)
     return H.todense()
 
