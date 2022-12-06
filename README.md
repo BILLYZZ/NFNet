@@ -12,5 +12,5 @@ Using the non-interacting Fermionic Formalism to efficiently simulate the measur
 
 
 <html lang="en">
-<img src="https://latex.codecogs.com/gif.latex?  "/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png"/>
 </html>
