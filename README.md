@@ -27,7 +27,7 @@ Some demonstrations and tutorials:
 
 <b>From Demo 3: Multi-layer Circuit Measurement</b>
 
- <img src="https://github.com/BILLYZZ/NFNet/blob/main/img/compare.png?raw=true" style="width:500px;height:600px;"/>
+ <img src="https://github.com/BILLYZZ/NFNet/blob/main/img/compare.png?raw=true" style="float:left;width:500px;height:260px;"/>
  
  <b>From Demo 5: Maxcut</b>
 
