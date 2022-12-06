@@ -10,7 +10,7 @@ Some demonstrations and tutorials:
 5. Demo_5_MaxCut
 6. Demo_6_196_qubit_Pattern_Recognition
 
-<b>NFNet</b> is a classical simulation platform of quantum systems. It uses the non-interacting Fermionic Formalism to efficiently simulate the measurements on a quantum circuit in polynomial time of the number of qubits, where the Fermion modes do not have the nearest-neighbor constraint. NFNet can efficiently simulate quantum systems composed of these three Hamiltonians scaled with any arbitrary factors: IZ+ZI, XX+YY, and XY+YX.
+<b>NFNet</b> is a classical simulation platform of large-scale quantum systems. It uses the non-interacting Fermionic Formalism to efficiently simulate the measurements on a quantum circuit in polynomial time of the number of qubits, where the Fermion modes do not have the nearest-neighbor constraint. NFNet can efficiently simulate quantum systems composed of these three Hamiltonians scaled with any arbitrary factors: IZ+ZI, XX+YY, and XY+YX.
 
 
 <b>From Demo 1: Continuous Hamiltonian</b>
