@@ -27,13 +27,13 @@ Some demonstrations and tutorials:
 
 <b>From Demo 3: Multi-layer Circuit Measurement</b>
 
- <img src="https://github.com/BILLYZZ/NFNet/blob/main/img/compare.png?raw=true" style="float:left;width:600px;height:320px;"/>
+ <img src="https://github.com/BILLYZZ/NFNet/blob/main/img/compare.png?raw=true" style="float:left;width:650px;"/>
  
  <b>From Demo 5: Maxcut</b>
 
- <img src="https://github.com/BILLYZZ/NFNet/blob/main/img/maxcut.png?raw=true style="float:left;width:600px;height:600;"/>
+ <img src="https://github.com/BILLYZZ/NFNet/blob/main/img/maxcut.png?raw=true" style="width:600px;height:600;"/>
  
  <b>From Demo 6: 196-qubit_Pattern_Recognition</b>
  
- <img src="https://github.com/BILLYZZ/NFNet/blob/main/img/196_new.png?raw=true" style="float:left;"/>
+ <img src="https://github.com/BILLYZZ/NFNet/blob/main/img/maxcut.png?raw=true" style="width:600px;"/>
 
