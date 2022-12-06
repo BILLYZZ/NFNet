@@ -1,6 +1,7 @@
 # NFNet version 0
 
 Author: Pengyuan Zhai
+Non-interacting Fermion Network (NFNet) (c) 2022 Pengyuan Zhai
 
 Some demonstrations and tutorials:
 1. Demo_1_Model a continuous Hamiltonian
