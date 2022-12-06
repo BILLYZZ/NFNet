@@ -13,5 +13,5 @@ Using the non-interacting Fermionic Formalism to efficiently simulate the measur
 
 
 <html lang="en">
-<img src="./img/readme"/>
+<img src="https://github.com/BILLYZZ/NFNet/img/readme"/>
 </html>
