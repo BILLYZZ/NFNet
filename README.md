@@ -11,7 +11,11 @@ Some demonstrations and tutorials:
 Using the non-interacting Fermionic Formalism to efficiently simulate the measurements on a quantum circuit in polynomial time of the number of qubits, without the nearest-neighbor constraint, NFNet is a classical simulation platform of quantum systems composed of these three Hamiltonians: IZ+ZI, XX+YY, and XY+YX.
 
 
+<b>From Demo 1:</>
 
 <html lang="en">
 <img src="https://github.com/BILLYZZ/NFNet/blob/main/img/readme.png?raw=true"/>
 </html>
+
+<b>From Demo 2:</>
+ 
