@@ -44,5 +44,5 @@ We then compare the measurement probabilities with the exact diagonalization cal
 
 
 <html lang="en">
-<img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }"/>
+<img src="https://latex.codecogs.com/svg.latex?s=\text { sensor reading }"/>
 </html>
