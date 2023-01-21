@@ -2,7 +2,7 @@
 
 Author: Pengyuan Zhai
 
-<b>Non-interacting Fermion Network (NFNet) (c) 2022 Pengyuan Zhai </b>
+<b>Non-interacting Fermion Network (NFNet) (c) 2022-2023 Pengyuan Zhai </b>
 
 https://www.youtube.com/watch?v=ovLqbBTyByQ
 
