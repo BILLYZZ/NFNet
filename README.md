@@ -4,6 +4,8 @@ Author: Pengyuan Zhai
 
 <b>Non-interacting Fermion Network (NFNet) (c) 2022-2023 Pengyuan Zhai </b>
 
+NFNet is a PyTorch-based platform for numerically simulating mega-scale quantum systems.
+
 https://www.youtube.com/watch?v=ovLqbBTyByQ
 
 Some demonstrations and tutorials:
